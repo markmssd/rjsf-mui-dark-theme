@@ -1,3 +1,17 @@
+# @rjsf/mui dark theme
+
+This repo is a minimal reproduction to demonstrate the issues when using MUI's dark theme.
+There might be more issues, which should be easy to find by displaying all types.
+
+Light:
+
+![Screenshot 2024-03-06 at 7.10.43 PM.png](..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%207.10.43%E2%80%AFPM.png)
+
+Dark:
+
+![Screenshot 2024-03-06 at 7.10.50 PM.png](..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%207.10.50%E2%80%AFPM.png)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
