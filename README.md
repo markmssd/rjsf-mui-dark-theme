@@ -1,6 +1,6 @@
 # @rjsf/mui dark theme
 
-This repo is a minimal reproduction to demonstrate the issues when using MUI's dark theme.
+This repo is a minimal reproduction to demonstrate the issues when using MUI's dark theme (https://github.com/rjsf-team/react-jsonschema-form/issues/4118).
 There might be more issues, which should be easy to find by displaying all types.
 
 Light:
