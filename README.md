@@ -5,11 +5,12 @@ There might be more issues, which should be easy to find by displaying all types
 
 Light:
 
-![Screenshot 2024-03-06 at 7.10.43 PM.png](..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%207.10.43%E2%80%AFPM.png)
+<img width="1182" alt="Screenshot 2024-03-06 at 7 10 43 PM" src="https://github.com/markmssd/rjsf-mui-dark-theme/assets/5899024/41308c69-2137-4f97-b1c7-708e6ee5979b">
+
 
 Dark:
 
-![Screenshot 2024-03-06 at 7.10.50 PM.png](..%2F..%2FDesktop%2FScreenshot%202024-03-06%20at%207.10.50%E2%80%AFPM.png)
+<img width="1179" alt="Screenshot 2024-03-06 at 7 10 50 PM" src="https://github.com/markmssd/rjsf-mui-dark-theme/assets/5899024/07240a2a-5bcc-44a8-b1c2-ee6abb525cf4">
 
 
 # React + TypeScript + Vite
