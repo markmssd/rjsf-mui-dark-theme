@@ -1,7 +1,7 @@
 import { withTheme } from '@rjsf/core';
 import { Theme } from '@rjsf/mui';
 import { type RJSFSchema } from '@rjsf/utils';
-import validator from '@rjsf/validator-ajv6';
+import validator from '@rjsf/validator-ajv8';
 
 const SchemaForm = withTheme(Theme);
 
